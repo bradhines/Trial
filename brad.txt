@@ -1,3 +1,5 @@
 v1) I added some new text in this version.
 
 v2) I added yet more text here. Did you know Brad's favorite color is Blue?
+
+v3) This is some more text I added around 1:30 Denver time. 
